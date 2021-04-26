@@ -1,4 +1,4 @@
-# Masteroppgave i geografi
+# Forskjeller i reisevaner mellom foreldre og voksne uten barn i norske byområder
 Denne siden gir skriptet for analysen til en masteroppgave ved Institutt for geografi, NTNU, og er skrevet i perioden 2020-2021. Oppgaven ser på hvordan reisevaner varierer mellom foreldre og andre voksne uten barn i norske storbyområder. Thomas Halvorsen har vært veileder for oppgaven. Datamateriale er _Den nasjonale reisevaneundersøkelsen 2013/14_, som er blitt gjort tilgjengelig av _NSD - Norsk senter for forskningsdata_. 
 
 I filen er `analyse.r` er skriptet som kjører analysen tilgjengelig. 
