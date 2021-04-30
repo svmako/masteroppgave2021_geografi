@@ -678,8 +678,7 @@ var_slekt <- c("Spm83_1_person1_slekt", "Spm82_1_person1_alder",
 var_drop <- c("Spm710_p_betaling", "Spm77_tidtiljobb_koll", "Spm76_tidtiljobb_bil",
               "Spm433_korttype", "Spm79_p_ledig", "Spm78_p_jobb", "Spm97_p_ledig",
               "Spm95_p_bolig", "Spm910_kolltilbud_morgen", "Spm102_inntekt_egen2",
-              "Spm105_utdanning_ord", "tidtiljobb_koll_max", "tidtiljobb_bil_max",
-              "Spm430_bilmulighet", "Spm34_oppmte")
+              "Spm105_utdanning_ord", "Spm430_bilmulighet", "Spm34_oppmte")
 
 p_sam <- p_sam %>%
   select(!all_of(var_slekt)) %>% 
